@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"安装","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"使用包管理器","slug":"使用包管理器","link":"#使用包管理器","children":[]}],"git":{"updatedTime":1672732197000,"contributors":[{"name":"zhiwen","email":"z2376731805@gmail.com","commits":1}]},"filePathRelative":"guide/index.md"}');export{e as data};
